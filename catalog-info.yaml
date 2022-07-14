@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: Vaibhav Tripathi
+spec:
+  profile:
+    displayName: Jenny Doe
+    email: vtripathi@gozego.com
+    picture: https://example.com/staff/jenny-with-party-hat.jpeg
+  memberOf: [team-b, employees]
